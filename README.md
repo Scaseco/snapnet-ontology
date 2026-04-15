@@ -1,1 +1,1 @@
-
+RDF Snapshot Network Ontology
